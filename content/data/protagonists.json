@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "slug": "neil-armstrong",
+      "name": "Neil Armstrong",
+      "role_es": "Comandante",
+      "role_en": "Commander",
+      "bio_es": "Comandante de Apollo 11 y primer ser humano en pisar la Luna. Su estilo fue discreto y centrado en el trabajo en equipo.",
+      "bio_en": "Apollo 11 commander and first human to walk on the Moon. Known for a quiet, team-first style."
+    },
+    {
+      "slug": "buzz-aldrin",
+      "name": "Buzz Aldrin",
+      "role_es": "Piloto del Módulo Lunar",
+      "role_en": "Lunar Module Pilot",
+      "bio_es": "Piloto del módulo lunar Eagle. En la superficie lunar, combinó precisión técnica con una fuerte presencia pública.",
+      "bio_en": "Pilot of the Eagle lunar module. On the Moon, he paired technical precision with a strong public presence."
+    },
+    {
+      "slug": "michael-collins",
+      "name": "Michael Collins",
+      "role_es": "Piloto del Módulo de Comando",
+      "role_en": "Command Module Pilot",
+      "bio_es": "Responsable del módulo de comando Columbia. Su papel fue crucial: navegación, sistemas y regreso seguro.",
+      "bio_en": "Responsible for the Columbia command module. Crucial role: navigation, systems, and safe return."
+    },
+    {
+      "slug": "personajes-secundarios",
+      "name": "Personajes secundarios",
+      "role_es": "Ingeniería, control de misión y contexto humano",
+      "role_en": "Engineering, mission control, and the human context",
+      "bio_es": "Más allá de la tripulación: equipos de ingeniería, control de misión y personas que sostuvieron el programa Apollo.",
+      "bio_en": "Beyond the crew: engineers, mission control teams, and people who sustained the Apollo program."
+    }
+  ]
+}
+
+

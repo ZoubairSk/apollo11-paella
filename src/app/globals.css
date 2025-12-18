@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+:root {
+  /* Space-themed tokens (refined): deep navy, readable surfaces, warm Apollo gold. */
+  --background: #050713; /* deep space */
+  --foreground: #f3f6ff; /* near-white */
+
+  --surface: #0a0f24;
+  --surface-2: #101a3a;
+
+  --muted: #b3bdd4;
+  --muted-2: #8f9ab6;
+
+  --border: rgba(255, 255, 255, 0.12);
+
+  /* Accents */
+  --accent: #f7c95e; /* Apollo gold */
+  --accent-2: #5de1d6; /* cyan highlight */
+  --accent-3: #9a8cff; /* nebula violet */
+
+  /* Radii */
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 18px;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-muted: var(--muted);
+  --color-muted-2: var(--muted-2);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-2: var(--accent-2);
+  --color-accent-3: var(--accent-3);
+
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Same palette; kept for future overrides if we want true light-mode later. */
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+*:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+/* Minimal rich text styling for MDX content (keeps Tailwind config simple). */
+.richtext {
+  max-width: 65ch;
+  color: var(--muted);
+  line-height: 1.8;
+}
+
+.richtext :where(h2) {
+  margin-top: 2.25rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.5rem;
+  line-height: 1.3;
+  font-weight: 600;
+  color: var(--foreground);
+}
+
+.richtext :where(h3) {
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
+  line-height: 1.4;
+  font-weight: 600;
+  color: var(--foreground);
+}
+
+.richtext :where(p) {
+  margin-top: 1rem;
+}
+
+.richtext :where(ul) {
+  margin-top: 1rem;
+  padding-left: 1.25rem;
+  list-style: disc;
+}
+
+.richtext :where(li) {
+  margin-top: 0.35rem;
+}

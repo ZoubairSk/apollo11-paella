@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "id": "sputnik-1957",
+      "year": 1957,
+      "title_es": "Sputnik 1",
+      "title_en": "Sputnik 1",
+      "summary_es": "La URSS lanza el primer satélite artificial, marcando el inicio de la Carrera Espacial.",
+      "summary_en": "The USSR launches the first artificial satellite, marking the beginning of the Space Race."
+    },
+    {
+      "id": "laika-1957",
+      "year": 1957,
+      "title_es": "Laika en órbita",
+      "title_en": "Laika in orbit",
+      "summary_es": "La perra Laika viaja al espacio en Sputnik 2; un hito científico con fuerte debate ético.",
+      "summary_en": "Laika flies to space aboard Sputnik 2; a scientific milestone with major ethical debate."
+    },
+    {
+      "id": "nasa-1958",
+      "year": 1958,
+      "title_es": "Se crea la NASA",
+      "title_en": "NASA is founded",
+      "summary_es": "Estados Unidos organiza su esfuerzo espacial civil con una agencia dedicada.",
+      "summary_en": "The United States formalizes a civilian space effort with a dedicated agency."
+    },
+    {
+      "id": "gagarin-1961",
+      "year": 1961,
+      "title_es": "Yuri Gagarin",
+      "title_en": "Yuri Gagarin",
+      "summary_es": "Primer ser humano en el espacio (Vostok 1). El hito redefine la carrera.",
+      "summary_en": "First human in space (Vostok 1). The milestone reshapes the race."
+    },
+    {
+      "id": "kennedy-1961",
+      "year": 1961,
+      "title_es": "Objetivo lunar",
+      "title_en": "Lunar goal announced",
+      "summary_es": "EE.UU. fija la meta de llevar un hombre a la Luna y traerlo de vuelta con seguridad antes de terminar la década.",
+      "summary_en": "The U.S. sets the goal to land a man on the Moon and return him safely before the decade is out."
+    },
+    {
+      "id": "telstar-1962",
+      "year": 1962,
+      "title_es": "Telstar y comunicaciones",
+      "title_en": "Telstar and communications",
+      "summary_es": "Los satélites de comunicaciones abren un nuevo capítulo: transmisión global y tecnología civil.",
+      "summary_en": "Communications satellites enable global broadcast and civilian applications."
+    },
+    {
+      "id": "voskhod-1965",
+      "year": 1965,
+      "title_es": "Primera caminata espacial",
+      "title_en": "First spacewalk",
+      "summary_es": "Alexei Leonov realiza la primera actividad extravehicular (EVA).",
+      "summary_en": "Alexei Leonov performs the first extravehicular activity (EVA)."
+    },
+    {
+      "id": "gemini-1965-1966",
+      "year": 1966,
+      "title_es": "Gemini y el entrenamiento orbital",
+      "title_en": "Gemini and orbital mastery",
+      "summary_es": "Gemini consolida acoplamientos, caminatas y estancias largas: capacidades clave para ir a la Luna.",
+      "summary_en": "Gemini establishes docking, EVAs, and long stays—critical capabilities for the Moon."
+    },
+    {
+      "id": "apollo1-1967",
+      "year": 1967,
+      "title_es": "Apollo 1",
+      "title_en": "Apollo 1",
+      "summary_es": "Un incendio durante una prueba causa la muerte de tres astronautas. El programa se rediseña con más seguridad.",
+      "summary_en": "A ground-test fire kills three astronauts. The program is redesigned with stronger safety."
+    },
+    {
+      "id": "apollo8-1968",
+      "year": 1968,
+      "title_es": "Apollo 8 orbita la Luna",
+      "title_en": "Apollo 8 orbits the Moon",
+      "summary_es": "Primera misión tripulada en orbitar la Luna; valida navegación y comunicaciones en espacio profundo.",
+      "summary_en": "First crewed mission to orbit the Moon; validates deep-space navigation and comms."
+    },
+    {
+      "id": "apollo9-1969",
+      "year": 1969,
+      "title_es": "Prueba del módulo lunar",
+      "title_en": "Lunar Module test",
+      "summary_es": "Apollo 9 prueba el módulo lunar en órbita terrestre, incluyendo maniobras de separación y acoplamiento.",
+      "summary_en": "Apollo 9 tests the Lunar Module in Earth orbit, including separation and docking."
+    },
+    {
+      "id": "apollo10-1969",
+      "year": 1969,
+      "title_es": "Ensayo general",
+      "title_en": "Dress rehearsal",
+      "summary_es": "Apollo 10 hace un ensayo completo en órbita lunar y desciende cerca de la superficie sin alunizar.",
+      "summary_en": "Apollo 10 rehearses the full mission in lunar orbit, descending close without landing."
+    },
+    {
+      "id": "apollo11-1969",
+      "year": 1969,
+      "title_es": "Apollo 11",
+      "title_en": "Apollo 11",
+      "summary_es": "Neil Armstrong y Buzz Aldrin alunizan; Michael Collins permanece en órbita.",
+      "summary_en": "Neil Armstrong and Buzz Aldrin land on the Moon; Michael Collins remains in orbit."
+    },
+    {
+      "id": "apollo13-1970",
+      "year": 1970,
+      "title_es": "Apollo 13",
+      "title_en": "Apollo 13",
+      "summary_es": "Una explosión obliga a abortar el alunizaje; la misión se convierte en un rescate técnico exitoso.",
+      "summary_en": "An explosion forces a landing abort; the mission becomes a successful technical rescue."
+    },
+    {
+      "id": "apollo17-1972",
+      "year": 1972,
+      "title_es": "Último alunizaje Apollo",
+      "title_en": "Last Apollo landing",
+      "summary_es": "Apollo 17 culmina la era Apollo con el último alunizaje tripulado del siglo XX.",
+      "summary_en": "Apollo 17 closes the Apollo era with the last crewed lunar landing of the 20th century."
+    },
+    {
+      "id": "apollo-soyuz-1975",
+      "year": 1975,
+      "title_es": "Apollo–Soyuz",
+      "title_en": "Apollo–Soyuz",
+      "summary_es": "Misión conjunta EE.UU.–URSS: un símbolo de distensión y cooperación espacial.",
+      "summary_en": "Joint U.S.–USSR mission: a symbol of détente and space cooperation."
+    }
+  ]
+}
+
+
